@@ -1,0 +1,11 @@
+@charset "ISO-8859-1";
+
+.test-color{
+	color: red;
+}
+
+#gogo-id{
+	font-family: fantasy;
+	color: green;
+	background-color: gray;
+}
